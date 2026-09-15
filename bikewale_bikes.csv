@@ -1,0 +1,181 @@
+Brand,Bike_Name,CC,Mileage,Power,Weight,Price,Rating
+bajaj,Bajaj Pulsar N160 2V,164.82 cc,47 kmpl,15.68 bhp,148 kg,"₹ 1,22,990",4.6
+bajaj,Bajaj Pulsar NS400Z,349.13 cc,32 kmpl,40.04 bhp,176 kg,"₹ 1,86,150",4.5
+bajaj,Bajaj Pulsar NS200,199.5 cc,36 kmpl,24.13 bhp,158 kg,"₹ 1,39,279",4.7
+bajaj,Bajaj Pulsar N160 4V,164.5 cc,47.5 kmpl,18.24 bhp,151 kg,"₹ 1,34,479",4.5
+bajaj,Bajaj Pulsar 125,124.4 cc,50 kmpl,11.8 bhp,,"₹ 93,507",3.4
+bajaj,Bajaj Chetak,,70 kmph,3.1 kW,,"₹ 1,19,056",3.7
+bajaj,Bajaj Pulsar NS125,124.45 cc,50 kmpl,11.8 bhp,144 kg,"₹ 94,043",4.5
+bajaj,Bajaj Dominar 400,349.13 cc,30 kmpl,40.04 bhp,190 kg,"₹ 2,08,330",4.5
+bajaj,Bajaj Pulsar 150,149.5 cc,47 kmpl,14 bhp,,"₹ 1,15,300",3.5
+bajaj,Bajaj Pulsar N250,249 cc,40 kmpl,24.1 bhp,164 kg,"₹ 1,45,487",4.5
+bajaj,Bajaj Pulsar NS160,160.3 cc,44 kmpl,17.03 bhp,152 kg,"₹ 1,26,819",4.6
+bajaj,Bajaj Pulsar RS 200,199.5 cc,35 kmpl,24.1 bhp,167 kg,"₹ 1,80,863",4.7
+bajaj,Bajaj Pulsar 220F,220 cc,43 kmpl,20.11 bhp,160 kg,"₹ 1,39,686",4.3
+bajaj,Bajaj Dominar 250,248.8 cc,32 kmpl,26.63 bhp,180 kg,"₹ 1,86,825",4.5
+bajaj,Bajaj Pulsar N125,124.58 cc,56 kmpl,11.83 bhp,125 kg,"₹ 93,694",4.4
+bajaj,Bajaj Freedom,125 cc,,9.3 bhp,149 kg,"₹ 1,04,237",4.6
+bajaj,Bajaj Platina 100,99.59 cc,75 kmpl,7.79 bhp,117 kg,"₹ 71,038",4.5
+bajaj,Bajaj Platina 110,115.45 cc,70 kmpl,8.48 bhp,119 kg,"₹ 75,798",4.4
+bajaj,Bajaj CT 110,115.45 cc,70 kmpl,8.48 bhp,127 kg,"₹ 74,847",4.4
+bajaj,Bajaj Pulsar 180,178.61 cc,44 kmpl,16.76 bhp,156 kg,"₹ 1,22,925",4.4
+bajaj,Bajaj Avenger Cruise 220,220 cc,39 kmpl,18.76 bhp,163 kg,"₹ 1,34,155",4.4
+bajaj,Bajaj Chetak C25,,55 kmph,,108 kg,"₹ 1,04,599",4.5
+bajaj,Bajaj Avenger Street 220,220 cc,,18.76 bhp,160 kg,"₹ 1,34,101",4.1
+bajaj,Bajaj Adventure,,,,,,
+bajaj,Bajaj Electric Motorcycle,,,,,,
+royalenfield,Royal Enfield Hunter 350,349.34 cc,35 kmpl,20.2 bhp,181 kg,"₹ 1,37,640",4.7
+royalenfield,Royal Enfield Classic 350,349 cc,34 kmpl,20.2 bhp,195 kg,"₹ 1,87,434",4.6
+royalenfield,Royal Enfield Bullet 350,349 cc,35 kmpl,20.2 bhp,195 kg,"₹ 1,65,656",4.7
+royalenfield,Royal Enfield Himalayan 440,443 cc,32 kmpl,25.4 bhp,199 kg,"₹ 2,29,000",4.6
+royalenfield,Royal Enfield Continental GT 650,648 cc,23 kmpl,47 bhp,211 kg,"₹ 3,58,427",4.7
+royalenfield,Royal Enfield Meteor 350,349.34 cc,32 kmpl,20.2 bhp,191 kg,"₹ 1,99,447",4.6
+royalenfield,Royal Enfield Guerrilla 450,452 cc,28 kmpl,39.47 bhp,185 kg,"₹ 2,51,063",4.7
+royalenfield,Royal Enfield Himalayan 450,451.65 cc,30 kmpl,39.47 bhp,196 kg,"₹ 3,08,029",4.7
+royalenfield,Royal Enfield Super Meteor 650,648 cc,25 kmpl,46.3 bhp,241 kg,"₹ 4,05,988",4.8
+royalenfield,Royal Enfield Shotgun 650,648 cc,23 kmpl,46.39 bhp,240 kg,"₹ 4,01,002",4.8
+royalenfield,Royal Enfield Interceptor 650,648 cc,24 kmpl,47 bhp,218 kg,"₹ 3,37,909",4.6
+royalenfield,Royal Enfield Scram 440,443 cc,30 kmpl,25.4 bhp,196 kg,"₹ 2,24,373",4.4
+royalenfield,Royal Enfield Goan Classic 350,349 cc,34 kmpl,20.2 bhp,197 kg,"₹ 2,25,311",4.8
+royalenfield,Royal Enfield Classic 650,647.95 cc,26.5 kmpl,46.39 bhp,243 kg,"₹ 3,67,592",4.7
+royalenfield,Royal Enfield Bullet 650,647.95 cc,,46.39 bhp,243 kg,"₹ 3,64,856",4.3
+royalenfield,Royal Enfield Flying Flea C6,,115 kmph,15.4 kW,124 kg,"₹ 2,79,000",3.4
+royalenfield,Royal Enfield Bear 650,648 cc,24 kmpl,46.8 bhp,216 kg,"₹ 3,78,208",4.4
+royalenfield,Royal Enfield Continental GT 450,,,,,,
+royalenfield,Royal Enfield Scrambler 450,,,,,,
+royalenfield,Royal Enfield Himalayan 750,,,,,,
+royalenfield,Royal Enfield Continental GT 750,,,,,,
+royalenfield,Royal Enfield Himalayan Electric,,,,,,
+royalenfield,Royal Enfield Flying Flea S6 Scrambler,,,,,,
+royalenfield,Royal Enfield Himalayan Raid 450,,,,,,
+tvs,TVS Ronin,225.9 cc,41 kmpl,20.1 bhp,159 kg,"₹ 1,30,314",4.6
+tvs,TVS Raider 125,124.8 cc,56 kmpl,11.2 bhp,123 kg,"₹ 86,397",4.4
+tvs,TVS iQube,,68 kmph,3.68 kW,115 kg,"₹ 1,19,251",3.6
+tvs,TVS Apache RTR 160,159.7 cc,45 kmpl,15.82 bhp,137 kg,"₹ 1,10,781",4.5
+tvs,TVS Jupiter 125,124.8 cc,48 kmpl,8.04 bhp,108 kg,"₹ 87,469",4.1
+tvs,TVS Jupiter,113.3 cc,49 kmpl,7.91 bhp,105 kg,"₹ 77,352",4.5
+tvs,TVS Ntorq 125,124.8 cc,43 kmpl,9.25 bhp,111 kg,"₹ 90,558",4.4
+tvs,TVS Apache RTR 160 4V,159.7 cc,45 kmpl,17.31 bhp,144 kg,"₹ 1,16,484",4.5
+tvs,TVS Apache RTX,299 cc,32.5 kmpl,35.5 bhp,180 kg,"₹ 1,99,496",4.7
+tvs,TVS Apache RR 310,312.2 cc,32 kmpl,37.54 bhp,174 kg,"₹ 2,62,265",4.7
+tvs,TVS Apache RTR 310,312.12 cc,32 kmpl,35.08 bhp,169 kg,"₹ 2,25,283",4.8
+tvs,TVS Ntorq 150,149.7 cc,40 kmpl,13 bhp,115 kg,"₹ 1,12,349",4.6
+tvs,TVS Apache RTR 200 4V,197.75 cc,38 kmpl,20.54 bhp,152 kg,"₹ 1,38,375",4.5
+tvs,TVS Sport,109.7 cc,70 kmpl,8.08 bhp,112 kg,"₹ 65,714",4.4
+tvs,TVS XL 100 Heavy Duty,99.7 cc,57 kmpl,4.3 bhp,88 kg,"₹ 47,918",4.5
+tvs,TVS Orbiter,,68 kmph,2.5 kW,101 kg,"₹ 1,02,459",4.4
+tvs,TVS Radeon,109.7 cc,63 kmpl,8.08 bhp,113 kg,"₹ 73,715",4.4
+tvs,TVS Apache RTR 180,177.4 cc,42 kmpl,16.78 bhp,140 kg,"₹ 1,27,730",4.6
+tvs,TVS Star City Plus,109.7 cc,70 kmpl,8.08 bhp,115 kg,"₹ 72,026",4.4
+tvs,TVS Zest 110,109.7 cc,45 kmpl,7.71 bhp,103 kg,"₹ 70,560",4.2
+tvs,TVS X,,105 kmph,11 kW,,"₹ 2,64,837",3.6
+tvs,TVS XL 100 Comfort,99.7 cc,55 kmpl,4.29 bhp,89 kg,"₹ 60,360",4.2
+tvs,TVS Raider 125 Flex-Fuel,,,,,,
+tvs,TVS XL EV,,,,,,
+tvs,TVS Jupiter CNG,,,,,,
+tvs,TVS Jupiter Electric,,,,,,
+tvs,TVS RTS X,,,,,,
+tvs,TVS Tangent RR,,,,,,
+honda,Honda SP 125,123.94 cc,63 kmpl,10.72 bhp,116 kg,"₹ 90,636",4.6
+honda,Honda Shine,123.94 cc,55 kmpl,10.63 bhp,113 kg,"₹ 83,683",4.4
+honda,Honda Activa,109.51 cc,47 kmpl,7.88 bhp,106 kg,"₹ 78,687",4.4
+honda,Honda CB350RS,348.36 cc,35 kmpl,20.78 bhp,180 kg,"₹ 1,98,333",4.6
+honda,Honda Rebel 300,286 cc,26 kmpl,30 bhp,172 kg,"₹ 2,22,000",4.8
+honda,Honda Unicorn,162.71 cc,50 kmpl,13 bhp,139 kg,"₹ 1,15,241",4.4
+honda,Honda Activa 125,123.92 cc,47 kmpl,8.3 bhp,107 kg,"₹ 92,806",4.5
+honda,Honda SP160,162.71 cc,50 kmpl,13.27 bhp,138 kg,"₹ 1,17,859",4.5
+honda,Honda CB 125 Hornet,123.94 cc,55 kmpl,10.99 bhp,124 kg,"₹ 1,15,312",4.7
+honda,Honda CB350,348.36 cc,35 kmpl,20.7 bhp,186 kg,"₹ 1,97,034",4.7
+honda,Honda Hness CB350,348.36 cc,35 kmpl,20.78 bhp,181 kg,"₹ 1,93,536",4.6
+honda,Honda Dio,109.51 cc,48 kmpl,7.75 bhp,106 kg,"₹ 74,820",4.6
+honda,Honda Dio 125,123.92 cc,47 kmpl,8.19 bhp,105 kg,"₹ 94,256",4.6
+honda,Honda Livo,109.51 cc,60 kmpl,8.67 bhp,112 kg,"₹ 81,031",4.4
+honda,Honda ADV 160,156.9 cc,,16.9 bhp,,"₹ 1,70,000",4.2
+honda,Honda Hornet 2.0,184.4 cc,45 kmpl,17.03 bhp,142 kg,"₹ 1,49,616",4.2
+honda,Honda Activa e,,80 kmph,6 kW,118 kg,"₹ 1,20,133",4.5
+honda,Honda Shine 100,98.98 cc,65 kmpl,7.28 bhp,99 kg,"₹ 65,996",4.6
+honda,Honda NX200,184.4 cc,42 kmpl,16.76 bhp,148 kg,"₹ 1,60,605",4.6
+honda,Honda CB350C,348.36 cc,38 kmpl,20.7 bhp,186 kg,"₹ 1,98,556",4.8
+honda,Honda CBR1000RR-R Fireblade,1000 cc,,214.56 bhp,201 kg,"₹ 33,50,000",3.5
+honda,Honda QC1,,50 kmph,,89.5 kg,"₹ 90,708",4.3
+honda,Honda NX500,471 cc,26.5 kmpl,46.9 bhp,196 kg,"₹ 7,43,900",3.2
+honda,Honda Goldwing,1833 cc,16 kmpl,124.7 bhp,390 kg,"₹ 44,30,000",3.3
+honda,Honda CB750 Hornet,755 cc,,90.5 bhp,191 kg,"₹ 10,49,000",3.3
+honda,Honda CB1000 Hornet,999 cc,,155 bhp,211 kg,"₹ 13,29,390",4.8
+honda,Honda Transalp XL750,755 cc,,90.5 bhp,208 kg,"₹ 13,20,000",
+honda,Honda Rebel 500,,,,,,
+honda,Honda CB350RS [2026],,,,,,
+honda,Honda CB350C [2026],,,,,,
+honda,Honda CB350 [2026],,,,,,
+honda,Honda Activa 7G,,,,,,
+honda,Honda CB500,,,,,,
+honda,Honda CB500F,,,,,,
+honda,Honda Rebel 500 e-Clutch,,,,,,
+honda,Honda XR300L,,,,,,
+jawa,Jawa All Stars 42 Bobber,,,,,"₹ 2,10,979",4.3
+jawa,Jawa All Star 42,,,,,"₹ 1,86,913",3.8
+jawa,Jawa All Stars 42 FJ,,,,,"₹ 2,03,529",4
+jawa,Jawa Perak,334 cc,30 kmpl,30.2 bhp,185 kg,"₹ 2,21,820",4.7
+jawa,Jawa 350,334 cc,29.5 kmpl,22.26 bhp,194 kg,"₹ 1,82,531",3.8
+triumph,Triumph Speed 400,349 cc,28 kmpl,36.49 bhp,179 kg,"₹ 2,34,302",4.1
+triumph,Triumph Scrambler 400 X,349 cc,28 kmpl,36.49 bhp,185 kg,"₹ 2,64,467",4
+triumph,Triumph Speed T4,349 cc,30 kmpl,28.6 bhp,180 kg,"₹ 2,07,965",4.3
+triumph,Triumph Tracker 400,349 cc,30 kmpl,39.45 bhp,183 kg,"₹ 2,42,064",4.4
+triumph,Triumph Street Triple RS,765 cc,19.5 kmpl,128.2 bhp,188 kg,"₹ 13,22,800",4.8
+triumph,Triumph Thruxton 400,349 cc,,39.45 bhp,190 kg,"₹ 2,74,811",4.2
+triumph,Triumph Rocket 3,2458 cc,15 kmpl,165 bhp,304 kg,"₹ 24,01,955",4.7
+triumph,Triumph Daytona 660,660 cc,18.5 kmpl,93.87 bhp,201 kg,"₹ 9,88,400",4.4
+triumph,Triumph Scrambler 400 XC,349 cc,26 kmpl,36.49 bhp,185 kg,"₹ 2,98,809",3.5
+triumph,Triumph Trident 660,660 cc,,80 bhp,189 kg,"₹ 8,99,000",4.4
+triumph,Triumph Street Triple R,765 cc,19 kmpl,118.4 bhp,168 kg,"₹ 11,16,300",4.8
+triumph,Triumph Bonneville Bobber,1200 cc,21 kmpl,76.9 bhp,251 kg,"₹ 13,51,600",3.8
+triumph,Triumph Tiger 900,888 cc,,106.5 bhp,219 kg,"₹ 14,40,000",5
+triumph,Triumph Bonneville T120,1200 cc,,78.9 bhp,236 kg,"₹ 12,17,000",2.5
+triumph,Triumph Speed Twin 900,900 cc,,64 bhp,216 kg,"₹ 9,71,300",4.7
+triumph,Triumph Speed Triple 1200 RS,1160 cc,,180.5 bhp,199 kg,"₹ 21,75,900",5
+triumph,Triumph Speed Twin 1200,1200 cc,,103.5 bhp,216 kg,"₹ 13,83,800",4.6
+triumph,Triumph Scrambler 900,900 cc,,64.1 bhp,223 kg,"₹ 10,74,700",4.7
+triumph,Triumph Tiger 1200,1160 cc,,148 bhp,245 kg,"₹ 19,39,000",4.7
+triumph,Triumph Street Triple RX,765 cc,19 kmpl,128.2 bhp,168 kg,"₹ 13,90,600",3
+triumph,Triumph Tiger Sport 660,660 cc,,80 bhp,206 kg,"₹ 9,45,000",4.6
+triumph,Triumph Speed Twin 1200 Cafe Racer Edition,1200 cc,,103.5 bhp,216 kg,"₹ 17,99,000",5
+triumph,Triumph Bonneville T100,900 cc,,64.1 bhp,228 kg,"₹ 10,85,400",4
+triumph,Triumph Scrambler 1200,1200 cc,,89 bhp,228 kg,"₹ 12,64,100",2.5
+triumph,Triumph Bonneville Speedmaster,1200 cc,,76.9 bhp,263 kg,"₹ 13,51,600",2.5
+triumph,Triumph Speed Twin 1200 TFC,1200 cc,,103.5 bhp,216 kg,"₹ 20,99,000",
+triumph,Triumph Bonneville T120 Black,1200 cc,,78.9 bhp,236 kg,"₹ 12,17,000",
+triumph,Triumph Tiger 900 Desert Edition,888 cc,,106.5 bhp,219 kg,"₹ 16,05,000",
+triumph,Triumph Tiger 900 Alpine Edition,888 cc,,106.5 bhp,219 kg,"₹ 15,35,000",
+triumph,Triumph Bonneville 400,,,,,,
+triumph,Triumph Tiger Sport 800,,,,,,
+ktm,KTM 250 Duke,249.07 cc,31 kmpl,30.57 bhp,162.8 kg,"₹ 2,26,277",4.8
+ktm,KTM 390 Duke,349.32 cc,28 kmpl,40.9 bhp,168.3 kg,"₹ 2,83,913",4.6
+ktm,KTM 200 Duke,199.5 cc,35 kmpl,24.67 bhp,159 kg,"₹ 1,91,570",4.7
+ktm,KTM 390 Adventure,349.32 cc,28 kmpl,40.93 bhp,181 kg,"₹ 2,87,986",4.4
+ktm,KTM 160 Duke,164.2 cc,36.5 kmpl,18.73 bhp,147 kg,"₹ 1,83,585",4.8
+ktm,KTM 250 Adventure,248.76 cc,31 kmpl,30.5 bhp,177 kg,"₹ 2,52,681",4.3
+ktm,KTM 390 Duke R,398.63 cc,29 kmpl,45.3 bhp,168.3 kg,"₹ 3,45,036",4.8
+ktm,KTM 1390 Super Duke R,1350 cc,26 kmpl,187.7 bhp,210 kg,"₹ 22,95,800",4.7
+ktm,KTM RC 200,199.5 cc,35 kmpl,24.6 bhp,160 kg,"₹ 2,31,913",4.5
+ktm,KTM RC 390,373.27 cc,29 kmpl,42.9 bhp,172 kg,"₹ 3,32,938",4.7
+ktm,KTM RC 160,164.2 cc,,18.73 bhp,155 kg,"₹ 1,99,975",4.3
+ktm,KTM 390 Adventure X,398.63 cc,28 kmpl,45.3 bhp,181 kg,"₹ 3,49,728",4.7
+ktm,KTM 390 Adventure S,398.63 cc,26.5 kmpl,45.3 bhp,182 kg,"₹ 4,05,011",4.9
+ktm,KTM 390 Enduro R,398.63 cc,,45.37 bhp,177 kg,"₹ 3,39,269",4.6
+ktm,KTM 390 Adventure R,398.7 cc,,44.2 bhp,183 kg,"₹ 3,86,235",5
+ktm,KTM 890 Duke R,889 cc,,119 bhp,180 kg,"₹ 14,50,000",4.4
+ktm,KTM 1290 Super Adventure S,1301 cc,,158 bhp,250 kg,"₹ 22,73,900",5
+ktm,KTM 890 Adventure R,889 cc,,103 bhp,215 kg,"₹ 15,80,000",5
+ktm,KTM 85 SX,84.9 cc,,15.5 bhp,75 kg,"₹ 6,69,000",3
+ktm,KTM 450 SX-F,449.9 cc,,62.1 bhp,107 kg,"₹ 10,25,100",3.7
+ktm,KTM 50 SX,49.9 cc,,5.3 bhp,45 kg,"₹ 4,75,000",4.5
+ktm,KTM 250 SX-F,249.9 cc,,46.1 bhp,104 kg,"₹ 9,58,000",
+ktm,KTM 350 EXC-F,349.7 cc,,44.3 bhp,103.2 kg,"₹ 12,95,800",
+ktm,KTM 65 SX,64.9 cc,,11.2 bhp,62 kg,"₹ 5,46,500",
+ktm,KTM 125 Duke,,,,,,
+ktm,KTM 390 SMC R,,,,,,
+ktm,KTM 890 Duke,,,,,,
+ktm,KTM RC 350,,,,,,
+ktm,KTM 650 Duke,,,,,,
+ktm,KTM 490 Duke,,,,,,
+ktm,KTM 490 Adventure,,,,,,
